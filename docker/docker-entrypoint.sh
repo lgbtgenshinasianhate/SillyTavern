@@ -10,3 +10,4 @@ npm run postinstall
 
 # Start the server
 exec node server.js --listen "$@"
+mkdir -p ./data
