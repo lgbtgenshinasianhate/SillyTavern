@@ -47,3 +47,5 @@ EXPOSE 8000
 
 # Ensure proper handling of kernel signals
 ENTRYPOINT ["tini", "--", "./docker-entrypoint.sh"]
+
+RUN mkdir -p /home/node/app/data
