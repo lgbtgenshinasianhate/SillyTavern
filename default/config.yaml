@@ -46,8 +46,8 @@ whitelistDockerHosts: true
 basicAuthMode: true
 # Basic authentication credentials
 basicAuthUser:
-  username: "user"
-  password: "password"
+  username: "souru"
+  password: "sssppp1019"
 # Enables CORS proxy middleware
 enableCorsProxy: false
 # -- REQUEST PROXY CONFIGURATION --
