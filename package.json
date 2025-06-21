@@ -89,6 +89,7 @@
         "yaml": "^2.7.0",
         "yargs": "^17.7.1",
         "yauzl": "^2.10.0"
+        "express-basic-auth": "^1.2.0",
     },
     "engines": {
         "node": ">= 18"
